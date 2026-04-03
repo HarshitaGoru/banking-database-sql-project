@@ -24,3 +24,29 @@ The database includes the following tables:
 
 ## Author
 Harshita
+
+## Problem Statement
+Banks handle large volumes of structured data such as customer information, account details, transactions, loans, and employee records. Managing this data efficiently requires a well-designed relational database.
+
+This project demonstrates the design and implementation of a banking database system using SQL. It models banking operations and performs queries to retrieve useful insights from the stored data.
+
+## Example Queries Implemented
+The project includes several SQL queries such as:
+
+- Retrieve customers ordered by last name
+- Find accounts with balance greater than a specific amount
+- Identify customers who have both accounts and loans
+- Calculate the maximum loan amount issued
+- Count number of transactions per account
+- Find employees working in each branch
+- Retrieve transactions within a specific date range
+
+## Learning Outcomes
+Through this project I learned:
+
+- Designing relational database schemas
+- Creating tables with primary and foreign key relationships
+- Performing SQL data manipulation and retrieval
+- Using aggregate functions like COUNT, SUM, and MAX
+- Writing subqueries and grouped queries
+- Understanding how banking systems manage structured data
